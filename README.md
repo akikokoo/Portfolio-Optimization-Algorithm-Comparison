@@ -4,7 +4,7 @@
 #### _These two python projects shows the implementation and usage of GA(Genetic Algorithm) and MCMC(Markov Chain Monte Carlo)._
 
 #### MCMC: It is a type of stochastic optimization algorithm that generates a sequence of portfolios (states) where each portfolio depends only on the previous one, which is the characteristic of a Markov chain.
-#### GA: It is a type of stochastic optimization algorithm that generates a sequence of portfolios (states) where each portfolio depends only on the previous one, which is the characteristic of a Markov chain.
+#### GA: A genetic algorithm functions as a heuristic optimization method, emulating natural selection. Initially, it generates a population of solutions randomly, then progressively enhances them by favoring the most suitable individuals, facilitating their reproduction, and injecting genetic variability via mutation. This iterative process continues for a predetermined number of generations or until a specified stopping condition is fulfilled.
 
 ### Problem Statement:
 **When investing in financial markets, the primary objectives are to maximize returns and minimize risk. Portfolio optimization is an important tool for achieving these goals.**
